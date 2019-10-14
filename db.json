@@ -1,0 +1,22 @@
+{
+  "mods": [
+      {
+        "name": "Creepino Utilities",
+        "description": "A utility mod that provides utility code for my other mods.",
+        "state": "Work In Progress",
+        "mcVersions": [
+          "1.12.2"
+        ],
+        "downloadLink": "#"
+      },
+      {
+        "name": "Essence Plus",
+        "description": "",
+        "state": "Work In Progress",
+        "mcVersions": [
+          "1.12.2"
+        ],
+        "downloadLink": "#"
+      }
+    ];
+}
